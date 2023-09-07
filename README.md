@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Kevin!
-- 👀 I’m interested in programming, basketball, video games, and music
+- 👀 I’m interested in programming, data science, basketball, video games, and music
 - 🌱 I’m currently studying Computer Science and Mathematics at UMass Amherst
-- 💞️ I’m looking to teach myself more languages like C++ and Python over the course of the year
+- 💞️ I’m looking to teach myself more languages and to learn more about data science and management
 - 📫 How to reach me: IG: kevshang, Discord: kevshang#1539, Email: shangk2015@gmail.com
 
 <!---
